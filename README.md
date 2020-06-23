@@ -1,4 +1,4 @@
-# regular10
+# regular10  v0.0.11
 ## https://asnazarov.github.io/regular10/
 ----------------------------------------
 
